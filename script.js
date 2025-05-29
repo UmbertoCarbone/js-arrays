@@ -26,8 +26,10 @@ const firstTeacher = null;
 
 // 5. Aggiungi un insegnante di nome 'Vanessa' alla fine dell'array teachers
 
-// 6. Aggiungi un insegnante di nome 'Sarah' all'inizio dell'array teachers
 
+// 6. Aggiungi un insegnante di nome 'Sarah' all'inizio dell'array teachers
+teachers.push('Sarah')
+console.log(teachers)
 // 7. Trova l'indice dell'insegnante 'Lewis' nell'array teachers
 // e salvalo nella variabile lewisIndex
 const lewisIndex = null;
